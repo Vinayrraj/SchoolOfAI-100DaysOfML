@@ -22,6 +22,7 @@
 
 - [learn_math_fast](https://github.com/llSourcell/learn_math_fast)
 - [math of machine learning](https://github.com/llSourcell/math_of_machine_learning)
+- [the-mathematics-of-machine-learning - towardsdatascience](https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568)
 
 ## Python
 
