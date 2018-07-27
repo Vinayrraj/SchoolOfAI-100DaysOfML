@@ -1,9 +1,8 @@
-# SchoolOfAI - 100 Days Of ML Code
-This repository is a part of #100DaysofMLCode challenge by @llSourcell.  That means I pledge to code machine learning for at least an hour everyday for the next 100 days.
+# SchoolOfAI - Learning Material
 
-### Day 0: July 27, 2018
-**Today's Progress**: 
 
-**Thoughts:** 
-**Link to work:** [Link](http://www.github.com)
+- [Siraj Raval on Youtube](https://youtube.com/c/sirajraval)
+- [Tensorflow Documentation](https://www.tensorflow.org/tutorials/)
+- [A bunch of online courses](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md)
+- [A bunch of public dataset](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst)
 
