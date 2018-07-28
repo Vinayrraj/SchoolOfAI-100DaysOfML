@@ -17,6 +17,7 @@
 - [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 - [Machine Learning Journey Siraj Raval on Youtube](https://github.com/llSourcell/Machine_Learning_Journey)
+-[Image Augmentation for Deep Learning With Keras](https://machinelearningmastery.com/image-augmentation-deep-learning-keras/)
 
 - [Siraj Raval on Youtube](https://youtube.com/c/sirajraval)
 - [Tensorflow Documentation](https://www.tensorflow.org/tutorials/)
