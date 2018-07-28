@@ -18,6 +18,7 @@
 
 - [Machine Learning Journey Siraj Raval on Youtube](https://github.com/llSourcell/Machine_Learning_Journey)
 -[Image Augmentation for Deep Learning With Keras](https://machinelearningmastery.com/image-augmentation-deep-learning-keras/)
+-[Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 
 - [Siraj Raval on Youtube](https://youtube.com/c/sirajraval)
 - [Tensorflow Documentation](https://www.tensorflow.org/tutorials/)
