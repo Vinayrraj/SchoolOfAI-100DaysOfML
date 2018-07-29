@@ -46,7 +46,9 @@ initiatives and resource allocation to help fight life-threatening pandemics. Yo
 
 -[Learn Computer Science in 5 Months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months)
 
+### Demos
 
+- [ml4a Demos](https://ml4a.github.io/demos/)
 
 ### Day 0: July 27, 2018
 **Today's Progress**: 
