@@ -30,6 +30,7 @@ initiatives and resource allocation to help fight life-threatening pandemics. Yo
 - [Machine Learning Journey Siraj Raval on Youtube](https://github.com/llSourcell/Machine_Learning_Journey)
 -[Image Augmentation for Deep Learning With Keras](https://machinelearningmastery.com/image-augmentation-deep-learning-keras/)
 -[Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
+-[Visualizing and Understanding Deep Neural Networks by Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw&t=5s)
 
 - [Siraj Raval on Youtube](https://youtube.com/c/sirajraval)
 - [Tensorflow Documentation](https://www.tensorflow.org/tutorials/)
