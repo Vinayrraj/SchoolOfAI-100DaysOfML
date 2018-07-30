@@ -47,6 +47,10 @@ initiatives and resource allocation to help fight life-threatening pandemics. Yo
 
 -[Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056.epdf?author_access_token=8oxIcYWf5UNrNpHsUHd2StRgN0jAjWel9jnR3ZoTv0NXpMHRAJy8Qn10ys2O4tuPakXos4UhQAFZ750CsBNMMsISFHIKinKDMKjShCpHIlYPYUHhNzkn6pSnOCt0Ftf6)
 
+### Mini Projects
+
+- [dermatologist-ai, detect Skin cancer via CNN](https://github.com/Vinayrraj/dermatologist-ai)
+
 ### Python
 
 -[Learn Computer Science in 5 Months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months)
