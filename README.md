@@ -43,6 +43,10 @@ initiatives and resource allocation to help fight life-threatening pandemics. Yo
 - [math of machine learning](https://github.com/llSourcell/math_of_machine_learning)
 - [the-mathematics-of-machine-learning - towardsdatascience](https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568)
 
+### Case Study
+
+-[Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056.epdf?author_access_token=8oxIcYWf5UNrNpHsUHd2StRgN0jAjWel9jnR3ZoTv0NXpMHRAJy8Qn10ys2O4tuPakXos4UhQAFZ750CsBNMMsISFHIKinKDMKjShCpHIlYPYUHhNzkn6pSnOCt0Ftf6)
+
 ### Python
 
 -[Learn Computer Science in 5 Months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months)
