@@ -63,6 +63,8 @@ initiatives and resource allocation to help fight life-threatening pandemics. Yo
 ### Whitepapaer
 -[Low Power Wireless Communication via
 Reinforcement Learning](https://papers.nips.cc/paper/1740-low-power-wireless-communication-via-reinforcement-learning.pdf)
+- [Inventory management in supply chains:
+a reinforcement learning approach](http://read.pudn.com/downloads142/sourcecode/others/617477/inventory%20supply%20chain/04051310570412465(1).pdf)
 
 ### Day 0: July 27, 2018
 **Today's Progress**: 
