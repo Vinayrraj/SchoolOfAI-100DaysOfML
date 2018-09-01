@@ -16,6 +16,7 @@ initiatives and resource allocation to help fight life-threatening pandemics. Yo
 - [CNN Visualization what-neural-nets-see](https://experiments.withgoogle.com/what-neural-nets-see)
 
 ### ML & AI
+- [Self driving Car MIT](https://selfdrivingcars.mit.edu/)
 - [The 7 Steps of Machine Learning](https://towardsdatascience.com/the-7-steps-of-machine-learning-2877d7e5548e)
 - [Google Developer Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Deep Learning Cheat Sheet](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460)
