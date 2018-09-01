@@ -37,6 +37,7 @@ initiatives and resource allocation to help fight life-threatening pandemics. Yo
 - [Tensorflow Documentation](https://www.tensorflow.org/tutorials/)
 - [A bunch of online courses](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md)
 - [A bunch of public dataset](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst)
+- [reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
 ### learn math fast
 
