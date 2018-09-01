@@ -60,6 +60,10 @@ initiatives and resource allocation to help fight life-threatening pandemics. Yo
 
 - [ml4a Demos](https://ml4a.github.io/demos/)
 
+### Whitepapaer
+-[Low Power Wireless Communication via
+Reinforcement Learning](https://papers.nips.cc/paper/1740-low-power-wireless-communication-via-reinforcement-learning.pdf)
+
 ### Day 0: July 27, 2018
 **Today's Progress**: 
 
